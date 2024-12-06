@@ -21,7 +21,7 @@ repository               : "pritamd47/cv"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Pritam-Das-Headshot.png"
   name             : "Pritam Das"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
