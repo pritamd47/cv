@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "About me"
 author_profile: true
@@ -6,3 +7,49 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Hi, I am a PhD candidate at the University of Washington.
+
+I am interested in the intersection of hydrology, remote sensing, and data science. My research focuses on using satellite remote sensing to better understand the role of humans in altering the natural state of rivers.
+
+{% include base_path %}
+
+Education
+======
+* Ph.D in Civil and Environmental Engineering, University of Washington, 2025 (expected)
+* M.S. in Civil and Environmental Engineering, University of Washington, 2022
+* Integrated M.Tech. in Geological Technology, IIT Roorkee, 2020
+
+Work experience
+======
+* 2021-Present: Graduate Research Assistant
+  * University of Washington
+
+* 2020-21: Graduate Engineer Trainee (Geology)
+  * Cairn Oil and Gas, Vedanta Limited
+
+Awards
+======
+* 2022: People’s Choice Graduate Poster Presentation. 
+  * American Water Resources Association (AWRA). Renton, WA.
+* 2020: Department Gold Medal
+  * IIT Roorkee. Roorkee, India.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Skills and Interests
+======
+* Programming Languages: Python, Bash, Latex, C++, R
+* Software: ArcGIS, QGIS, Git, Figma, Linux
+* Languages: English, Hindi, Bangla
+* Interests: Photography, Hiking, Volunteering
