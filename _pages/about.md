@@ -20,13 +20,10 @@ Education
 * M.S. in Civil and Environmental Engineering, University of Washington, 2022
 * Integrated M.Tech. in Geological Technology, IIT Roorkee, 2020
 
-Work experience
+Experience
 ======
-* 2021-Present: Graduate Research Assistant
-  * University of Washington
-
-* 2020-21: Graduate Engineer Trainee (Geology)
-  * Cairn Oil and Gas, Vedanta Limited
+* Graduate Research Assistant, University of Washington. 2021-Present.
+* SIParCS Summer Intern, National Center for Atmospheric Research (NCAR). 2023.
 
 Awards
 ======
