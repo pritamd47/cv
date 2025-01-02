@@ -10,10 +10,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
+
+  - title: "Trainings and Workshops"
+    url: /trainings/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-

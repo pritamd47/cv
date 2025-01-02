@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Training and Workshops"
+permalink: /trainings/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.trainings reversed %}
+  {% include archive-single-trainings.html %}
+{% endfor %}
