@@ -1,10 +1,8 @@
 ---
 title: "Multi-satellite Tracking of Surface Water Storage Change in the Era of Surface Water and Ocean Topography (SWOT) Satellite Mission"
-
 collection: publications
-
-category: manuscripts
-
+status: Submitted
+category: manuscript
 permalink: /publication/2024-swot-storage
 date: 2024-12-28
 venue: 'Earth and Space Science, Science from the Surface Water and Ocean Topography Mission'
