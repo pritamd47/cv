@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,6 +11,10 @@ redirect_from:
 Hi, I am a PhD candidate at the University of Washington.
 
 I am interested in the intersection of hydrology, remote sensing, and data science. My research focuses on using satellite remote sensing to better understand the role of humans in altering the natural state of rivers.
+I am passionate about science communication and data visualization.
+I am also a strong advocate for open science and reproducible research.
+
+In my free time, I enjoy hiking, strumming my guitar, sketching, and volunteering.
 
 {% include base_path %}
 
