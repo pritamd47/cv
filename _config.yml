@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Pritam-Das-Headshot.png"
   name             : "Pritam Das"
-  pronouns         : "he/him"  
+  pronouns         : "he/him"
   bio              : "PhD Candidate at the University of Washington"
   location         : "Seattle, WA"
   employer         : 
@@ -46,14 +46,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
+  manuscript:
+    title: 'Peer-Reviewed articles'
+  conference:
     title: 'Conference Papers'
-  magazines:
+  magazine:
     title: 'Magazine Articles'
+  book:
+    title: 'Book Chapter Contributions'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
