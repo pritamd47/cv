@@ -52,5 +52,6 @@ Skills and Interests
 ======
 * Programming Languages: Python, Bash, Latex, C++, R
 * Software: ArcGIS, QGIS, Git, Figma, Linux
+* Packages: Dask, XArray, HoloViews
 * Languages: English, Hindi, Bangla
 * Interests: Photography, Hiking, Volunteering
